@@ -10,19 +10,19 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **UI/UX Projects**
 
 - 🤝 I’m looking for help with **colloberting software dev's for my upcoming project**
 
-- 💬 Ask me about **ANGULAR, ES6+, AWS Amplify, MERN, RPA(AA360)**
+- 💬 Ask me about **ANGULAR, ES6+, AWS Amplify, Bootstrap**
 
 - 📫 How to reach me **azmath262@gmail.com**
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/g-shabrez-785362159/" target="blank"><img align="center" src="https://www.linkedin.com/in/azmathulla-khan-a98561179?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="https://www.linkedin.com/in/g-shabrez-785362159/" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/g-shabrez-785362159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/g-shabrez-785362159/" height="30" width="40" /></a>
 
 </p>
 
